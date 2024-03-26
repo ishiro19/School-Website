@@ -1,0 +1,42 @@
+body{
+    background-image: url(modulebg.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;  
+    overflow: hidden;
+}
+
+h1{
+    color: #3399ff;
+    height: 150px;
+    width: 600px;
+    font-size: 75px;
+
+    position: relative;
+    
+    top: 50px;
+    bottom: 100px;
+    left: 380px;
+}
+
+h2{
+    color:black;
+    font-size: 18px;
+
+    position: relative;
+    
+    top: 50px;
+    bottom: 100px;
+    left: 35px;
+}
+
+.menu{
+    font-size: 25px;
+
+    position: relative;
+    
+    top: 125px;
+    bottom: 10px;
+    left: 1050px;
+}
